@@ -66,7 +66,8 @@ else:
 print("----------------------------------------------------------------------")
 ```
 ## Output
-![Uploading 280933334-cc227832-d496-4f6c-9d3b-c206764bc5e2.png…]()
+
+![280933334-cc227832-d496-4f6c-9d3b-c206764bc5e2](https://github.com/sujithrabkn/Open-Jacson-Networks/assets/119477857/2ca011ab-629f-4813-b289-d187c896bc3e)
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
